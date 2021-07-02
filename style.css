@@ -1,0 +1,48 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	background-size: cover;
+	background-position: center;
+}
+
+._event_head_ {
+	width: 100%;
+	cursor: default;
+}
+
+._event_head_ b {
+	color: #fff;
+}
+
+._soon_ {
+	width: 60%;
+	padding: 16px;
+	border-radius: 20px;
+	background: #ffffff;
+}
+
+._terms_ {
+	width: 60%;
+	padding: 16px;
+	border-radius: 20px;
+	background: #ffffff;
+}
+
+#read {
+	border-radius: 30px;
+}
+
+#read:hover {
+	color: #006aff;
+	background: #deeeff;
+	transform: scale(1.1);
+}
+
+._info_ {
+	width: 60%;
+	padding: 16px;
+	border-radius: 20px;
+	background: #ffffff;
+}
