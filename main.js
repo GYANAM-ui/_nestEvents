@@ -1,7 +1,7 @@
 // Don't copy
 
 function terms() {
-	window.open("_terms/term.html");
+	window.location = "_terms/term.html";
 }
 
 function mail() {
