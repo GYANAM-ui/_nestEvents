@@ -1,7 +1,7 @@
 // Don't copy
 
 function terms() {
-    window.location = "_terms/terms.html";
+    window.location = "terms/terms.html";
 }
 
 function mail() {
@@ -10,4 +10,8 @@ function mail() {
 
 function imageOpen() {
     window.open("img/events.png");
+}
+
+function dashboard() {
+    window.location = "dashboard/home.html";
 }

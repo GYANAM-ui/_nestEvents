@@ -46,3 +46,22 @@ body {
     border-radius: 20px;
     background: #ffffff;
 }
+
+.dash button {
+    width: 50%;
+    border-radius: 15px;
+    color: #fff;
+}
+
+.dash button:hover {
+    width: 50%;
+    border-radius: 15px;
+    color: #fff;
+}
+
+.note {
+    width: 60%;
+    border-radius: 20px;
+    background-color: white;
+    padding: 10px;
+}

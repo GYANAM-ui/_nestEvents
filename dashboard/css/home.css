@@ -1,0 +1,18 @@
+.heading {
+    width: 100%;
+    cursor: default;
+    color: #fff;
+}
+
+.card {
+    margin-left: 10px;
+    float: left;
+}
+
+.coming {
+    cursor: not-allowed;
+}
+
+.card a {
+    width: 100%;
+}

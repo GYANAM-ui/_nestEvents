@@ -1,0 +1,17 @@
+.heading {
+    width: 100%;
+}
+
+.lectures {
+    width: 65%;
+    height: 300px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(231, 231, 231);
+}
+
+.lectures iframe {
+    width: 60%;
+    height: 250px;
+    border-radius: 10px;
+}
